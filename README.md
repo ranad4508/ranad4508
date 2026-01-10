@@ -65,14 +65,15 @@ I build **full-stack web & mobile apps** and I'm currently diving deep into **Cl
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranad4508&show_icons=true&theme=radical&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranad4508&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranad4508&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranad4508&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranad4508&theme=radical&hide_border=true)
 
 </div>
+
 
 ---
 
