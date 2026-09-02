@@ -148,53 +148,6 @@ Working on:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛍️ E-Bargaining
-
-A modern marketplace focused on **real-time buyer–seller bargaining**, combining e-commerce with negotiation workflows.
-
-**Tech:**  
-`Next.js` `React` `TypeScript` `FastAPI` `PostgreSQL` `Flutter` `Docker` `CI/CD`
-
----
-
-## 🎓 Learnexa
-
-An education technology platform helping students with **test preparation, mock tests, eligibility checking, scholarships, and AI-powered interview preparation**.
-
-**Tech:**  
-`Next.js` `Django` `PostgreSQL` `AI/LLMs` `Voice AI` `Deepgram` `LiveKit`
-
----
-
-## 🚗 TravelNest
-
-A peer-to-peer **self-drive vehicle rental marketplace** connecting vehicle owners and renters.
-
-**Tech:**  
-`Next.js` `React` `Node.js` `MongoDB` `Maps` `Cloud Infrastructure`
-
----
-
-## 🏥 CareNest
-
-A clinic management platform designed around **patients, reception, doctors, laboratory workflows, administration, appointments, billing, and clinical operations**.
-
-**Tech:**  
-`Next.js` `Django` `PostgreSQL` `TypeScript` `Tailwind CSS`
-
----
-
-## 💰 Price Compare Nepal
-
-A price comparison platform designed to help users **compare product prices across multiple Nepalese marketplaces**.
-
-**Tech:**  
-`Next.js` `FastAPI` `PostgreSQL` `APIs` `Cloud Deployment`
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
